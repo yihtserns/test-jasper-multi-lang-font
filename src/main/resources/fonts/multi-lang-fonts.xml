@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontSet name="MultiLang">
+        <family familyName="Noto Sans Latin" primary="true" />
+        <family familyName="Noto Sans Thai" />
+        <family familyName="Source Han Sans Simplified Chinese" />
+    </fontSet>
+
+    <fontFamily name="Noto Sans Latin">
+        <normal>fonts/noto/NotoSans-Regular.ttf</normal>
+        <bold>fonts/noto/NotoSans-Bold.ttf</bold>
+        <italic>fonts/noto/NotoSans-Italic.ttf</italic>
+        <boldItalic>fonts/noto/NotoSans-BoldItalic.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+
+    <fontFamily name="Noto Sans Thai">
+        <normal>fonts/noto/NotoSansThai-Regular.ttf</normal>
+        <bold>fonts/noto/NotoSansThai-Bold.ttf</bold>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+
+    <fontFamily name="Source Han Sans Simplified Chinese">
+        <normal>fonts/source-han/SourceHanSansSC-Regular.otf</normal>
+        <bold>fonts/source-han/SourceHanSansSC-Bold.otf</bold>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+</fontFamilies>
